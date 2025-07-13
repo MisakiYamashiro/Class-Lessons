@@ -1,0 +1,8 @@
+C:\Users\efepa\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\bin\Debug\JenerikKoleksiyonlar.exe.config
+C:\Users\efepa\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\bin\Debug\JenerikKoleksiyonlar.exe
+C:\Users\efepa\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\bin\Debug\JenerikKoleksiyonlar.pdb
+C:\Users\efepa\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\efepa\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\efepa\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.exe
+C:\Users\efepa\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.pdb
+C:\Users\efepa\source\repos\JenerikKoleksiyonlar\JenerikKoleksiyonlar\obj\Debug\JenerikKoleksiyonlar.exe.config
