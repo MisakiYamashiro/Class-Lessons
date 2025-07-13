@@ -1,0 +1,8 @@
+C:\Users\efepa\source\repos\ObjectTuru\ObjectTuru\bin\Debug\ObjectTuru.exe.config
+C:\Users\efepa\source\repos\ObjectTuru\ObjectTuru\bin\Debug\ObjectTuru.exe
+C:\Users\efepa\source\repos\ObjectTuru\ObjectTuru\bin\Debug\ObjectTuru.pdb
+C:\Users\efepa\source\repos\ObjectTuru\ObjectTuru\obj\Debug\ObjectTuru.csproj.AssemblyReference.cache
+C:\Users\efepa\source\repos\ObjectTuru\ObjectTuru\obj\Debug\ObjectTuru.csproj.CoreCompileInputs.cache
+C:\Users\efepa\source\repos\ObjectTuru\ObjectTuru\obj\Debug\ObjectTuru.exe
+C:\Users\efepa\source\repos\ObjectTuru\ObjectTuru\obj\Debug\ObjectTuru.pdb
+C:\Users\efepa\source\repos\ObjectTuru\ObjectTuru\obj\Debug\ObjectTuru.exe.config
