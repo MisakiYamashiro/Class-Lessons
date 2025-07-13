@@ -1,0 +1,8 @@
+C:\Users\efepa\source\repos\KoleksiyonMantigi\KoleksiyonMantigi\bin\Debug\KoleksiyonMantigi.exe.config
+C:\Users\efepa\source\repos\KoleksiyonMantigi\KoleksiyonMantigi\bin\Debug\KoleksiyonMantigi.exe
+C:\Users\efepa\source\repos\KoleksiyonMantigi\KoleksiyonMantigi\bin\Debug\KoleksiyonMantigi.pdb
+C:\Users\efepa\source\repos\KoleksiyonMantigi\KoleksiyonMantigi\obj\Debug\KoleksiyonMantigi.csproj.AssemblyReference.cache
+C:\Users\efepa\source\repos\KoleksiyonMantigi\KoleksiyonMantigi\obj\Debug\KoleksiyonMantigi.csproj.CoreCompileInputs.cache
+C:\Users\efepa\source\repos\KoleksiyonMantigi\KoleksiyonMantigi\obj\Debug\KoleksiyonMantigi.exe
+C:\Users\efepa\source\repos\KoleksiyonMantigi\KoleksiyonMantigi\obj\Debug\KoleksiyonMantigi.pdb
+C:\Users\efepa\source\repos\KoleksiyonMantigi\KoleksiyonMantigi\obj\Debug\KoleksiyonMantigi.exe.config

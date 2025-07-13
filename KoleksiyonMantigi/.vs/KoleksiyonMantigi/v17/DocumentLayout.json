@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42399434-D9CC-4C9F-A961-F865B5B124F8}|KoleksiyonMantigi\\KoleksiyonMantigi.csproj|c:\\users\\efepa\\source\\repos\\koleksiyonmantigi\\koleksiyonmantigi\\metinselkoleksiyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42399434-D9CC-4C9F-A961-F865B5B124F8}|KoleksiyonMantigi\\KoleksiyonMantigi.csproj|solutionrelative:koleksiyonmantigi\\metinselkoleksiyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42399434-D9CC-4C9F-A961-F865B5B124F8}|KoleksiyonMantigi\\KoleksiyonMantigi.csproj|C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\koleksiyonmantigi\\sayisalkoleksiyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42399434-D9CC-4C9F-A961-F865B5B124F8}|KoleksiyonMantigi\\KoleksiyonMantigi.csproj|solutionrelative:koleksiyonmantigi\\sayisalkoleksiyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42399434-D9CC-4C9F-A961-F865B5B124F8}|KoleksiyonMantigi\\KoleksiyonMantigi.csproj|C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\koleksiyonmantigi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42399434-D9CC-4C9F-A961-F865B5B124F8}|KoleksiyonMantigi\\KoleksiyonMantigi.csproj|solutionrelative:koleksiyonmantigi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetinselKoleksiyon.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\KoleksiyonMantigi\\MetinselKoleksiyon.cs",
+              "RelativeDocumentMoniker": "KoleksiyonMantigi\\MetinselKoleksiyon.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\KoleksiyonMantigi\\MetinselKoleksiyon.cs",
+              "RelativeToolTip": "KoleksiyonMantigi\\MetinselKoleksiyon.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:14:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayisalKoleksiyon.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\KoleksiyonMantigi\\SayisalKoleksiyon.cs",
+              "RelativeDocumentMoniker": "KoleksiyonMantigi\\SayisalKoleksiyon.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\KoleksiyonMantigi\\SayisalKoleksiyon.cs",
+              "RelativeToolTip": "KoleksiyonMantigi\\SayisalKoleksiyon.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:23:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\KoleksiyonMantigi\\Program.cs",
+              "RelativeDocumentMoniker": "KoleksiyonMantigi\\Program.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\KoleksiyonMantigi\\KoleksiyonMantigi\\Program.cs",
+              "RelativeToolTip": "KoleksiyonMantigi\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:22:03.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
