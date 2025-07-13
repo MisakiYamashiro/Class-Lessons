@@ -1,0 +1,7 @@
+C:\Users\efepa\source\repos\YapiciMethodlar\YapiciMethodlar\bin\Debug\YapiciMethodlar.exe.config
+C:\Users\efepa\source\repos\YapiciMethodlar\YapiciMethodlar\bin\Debug\YapiciMethodlar.exe
+C:\Users\efepa\source\repos\YapiciMethodlar\YapiciMethodlar\bin\Debug\YapiciMethodlar.pdb
+C:\Users\efepa\source\repos\YapiciMethodlar\YapiciMethodlar\obj\Debug\YapiciMethodlar.csproj.AssemblyReference.cache
+C:\Users\efepa\source\repos\YapiciMethodlar\YapiciMethodlar\obj\Debug\YapiciMethodlar.csproj.CoreCompileInputs.cache
+C:\Users\efepa\source\repos\YapiciMethodlar\YapiciMethodlar\obj\Debug\YapiciMethodlar.exe
+C:\Users\efepa\source\repos\YapiciMethodlar\YapiciMethodlar\obj\Debug\YapiciMethodlar.pdb
