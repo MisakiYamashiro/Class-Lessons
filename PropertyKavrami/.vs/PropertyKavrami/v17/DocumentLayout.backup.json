@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efepa\\source\\repos\\PropertyKavrami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F59AF4A-3671-45BE-BA92-C0EDDC4A789C}|PropertyKavrami\\PropertyKavrami.csproj|C:\\Users\\efepa\\source\\repos\\PropertyKavrami\\propertykavrami\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F59AF4A-3671-45BE-BA92-C0EDDC4A789C}|PropertyKavrami\\PropertyKavrami.csproj|solutionrelative:propertykavrami\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F59AF4A-3671-45BE-BA92-C0EDDC4A789C}|PropertyKavrami\\PropertyKavrami.csproj|c:\\users\\efepa\\source\\repos\\propertykavrami\\propertykavrami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F59AF4A-3671-45BE-BA92-C0EDDC4A789C}|PropertyKavrami\\PropertyKavrami.csproj|solutionrelative:propertykavrami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\PropertyKavrami\\PropertyKavrami\\Insan.cs",
+              "RelativeDocumentMoniker": "PropertyKavrami\\Insan.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\PropertyKavrami\\PropertyKavrami\\Insan.cs",
+              "RelativeToolTip": "PropertyKavrami\\Insan.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:17:58.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\PropertyKavrami\\PropertyKavrami\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyKavrami\\Program.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\PropertyKavrami\\PropertyKavrami\\Program.cs",
+              "RelativeToolTip": "PropertyKavrami\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:17:50.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
