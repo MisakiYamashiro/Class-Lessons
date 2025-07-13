@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efepa\\source\\repos\\ArrayListKoleksiyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F902C18F-A2EF-4B6A-814B-0F857AC2574D}|ArrayListKoleksiyonu\\ArrayListKoleksiyonu.csproj|c:\\users\\efepa\\source\\repos\\arraylistkoleksiyonu\\arraylistkoleksiyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F902C18F-A2EF-4B6A-814B-0F857AC2574D}|ArrayListKoleksiyonu\\ArrayListKoleksiyonu.csproj|solutionrelative:arraylistkoleksiyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\ArrayListKoleksiyonu\\ArrayListKoleksiyonu\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayListKoleksiyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\efepa\\source\\repos\\ArrayListKoleksiyonu\\ArrayListKoleksiyonu\\Program.cs",
+              "RelativeToolTip": "ArrayListKoleksiyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:08:25.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
