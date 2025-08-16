@@ -1,0 +1,6 @@
+C:\Users\efepa\source\repos\KatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\efepa\source\repos\KatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\efepa\source\repos\KatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\efepa\source\repos\KatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\efepa\source\repos\KatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\efepa\source\repos\KatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

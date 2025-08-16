@@ -1,0 +1,10 @@
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.AssemblyReference.cache
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe.config
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.pdb
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\obj\Debug\Katmanli.CE2DE2A3.Up2Date
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.exe
+C:\Users\efepa\source\repos\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.pdb
