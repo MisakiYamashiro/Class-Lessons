@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\",
+  "WorkspaceRootPath": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7220A5B4-E211-48F1-9B7D-B5F98CAAF2A8}|KatmanliMimari\\KatmanliMimari.csproj|c:\\users\\efepa\\source\\repos\\katmanlimimari\\katmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7220A5B4-E211-48F1-9B7D-B5F98CAAF2A8}|KatmanliMimari\\KatmanliMimari.csproj|solutionrelative:katmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\efepa\\source\\repos\\katmanlimimari\\dataaccesslayer\\islemsinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\dataaccesslayer\\islemsinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\islemsinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\efepa\\source\\repos\\katmanlimimari\\dataaccesslayer\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\dataaccesslayer\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\efepa\\source\\repos\\katmanlimimari\\dataaccesslayer\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7220A5B4-E211-48F1-9B7D-B5F98CAAF2A8}|KatmanliMimari\\KatmanliMimari.csproj|c:\\users\\efepa\\onedrive\\documenti\\github\\class-lessons\\katmanlimimari\\katmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7220A5B4-E211-48F1-9B7D-B5F98CAAF2A8}|KatmanliMimari\\KatmanliMimari.csproj|solutionrelative:katmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\efepa\\onedrive\\documenti\\github\\class-lessons\\katmanlimimari\\dataaccesslayer\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 207,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +38,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\DataAccessLayer\\Urun.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Urun.cs",
+              "ToolTip": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\DataAccessLayer\\Urun.cs",
+              "RelativeToolTip": "DataAccessLayer\\Urun.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T10:38:14.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Kategori.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\DataAccessLayer\\Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\DataAccessLayer\\Kategori.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Kategori.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\DataAccessLayer\\Kategori.cs",
+              "ToolTip": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\DataAccessLayer\\Kategori.cs",
               "RelativeToolTip": "DataAccessLayer\\Kategori.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,39 +64,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaglantiYollari.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\DataAccessLayer\\BaglantiYollari.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\BaglantiYollari.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\DataAccessLayer\\BaglantiYollari.cs",
-              "RelativeToolTip": "DataAccessLayer\\BaglantiYollari.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T10:38:33.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IslemSinifi.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\DataAccessLayer\\IslemSinifi.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\DataAccessLayer\\IslemSinifi.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IslemSinifi.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\DataAccessLayer\\IslemSinifi.cs",
+              "ToolTip": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\DataAccessLayer\\IslemSinifi.cs",
               "RelativeToolTip": "DataAccessLayer\\IslemSinifi.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAA0wFcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAqwKEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T10:32:13.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\KatmanliMimari\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\KatmanliMimari\\Program.cs",
               "RelativeDocumentMoniker": "KatmanliMimari\\Program.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\KatmanliMimari\\KatmanliMimari\\Program.cs",
+              "ToolTip": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\KatmanliMimari\\Program.cs",
               "RelativeToolTip": "KatmanliMimari\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T10:21:51.917Z",
               "EditorCaption": ""

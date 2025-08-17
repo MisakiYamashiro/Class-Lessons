@@ -178,6 +178,106 @@ namespace DataAccessLayer
 
         #region Ürün Metotları
 
+        public List<Urun> UrunListele()
+        {
+            List<Urun> urunler = new List<Urun>();
+            try
+            {
+                cmd.CommandText = "SELECT P.ProductID, P.ProductName, P.SupplierID, S.CompanyName, P.CategoryID, C.CategoryName, P.UnitPrice, P.UnitsInStock, P.ReorderLevel, P.Discontinued FROM Products as P join Suppliers as S on P.SupplierID = S.SupplierID join Categories as C on P.CategoryID = C.CategoryID";
+                cmd.Parameters.Clear();
+                con.Open();
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    Urun u = new Urun();
+                    u.UrunID = reader.GetInt32(0);
+                    u.UrunAdi = reader.GetString(1);
+                    u.TedarikciID = reader.GetInt32(2);
+                    u.Tedarikci = reader.GetString(3);
+                    u.KategoriID = reader.GetInt32(4);
+                    u.Kategori = reader.GetString(5);
+                    u.Fiyat = reader.GetDecimal(6);
+                    u.Stok = reader.GetInt16(7);
+                    u.GuvenlikStok = reader.GetInt16(8);
+                    u.SatistaMi = reader.GetBoolean(9);
+                    urunler.Add(u);
+                }
+                return urunler;
+            }
+            catch 
+            {
+                return null;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
+
+        public List<Urun> UrunListele(bool satisdurum)
+        {
+            List<Urun> urunler = new List<Urun>();
+            try
+            {
+                cmd.CommandText = "SELECT P.ProductID, P.ProductName, P.SupplierID, S.CompanyName, P.CategoryID, C.CategoryName, P.UnitPrice, P.UnitsInStock, P.ReorderLevel, P.Discontinued FROM Products as P join Suppliers as S on P.SupplierID = S.SupplierID join Categories as C on P.CategoryID = C.CategoryID where P.Discontinued = @sd";
+                cmd.Parameters.Clear();
+                cmd.Parameters.AddWithValue("@sd", satisdurum);
+                con.Open();
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    Urun u = new Urun();
+                    u.UrunID = reader.GetInt32(0);
+                    u.UrunAdi = reader.GetString(1);
+                    u.TedarikciID = reader.GetInt32(2);
+                    u.Tedarikci = reader.GetString(3);
+                    u.KategoriID = reader.GetInt32(4);
+                    u.Kategori = reader.GetString(5);
+                    u.Fiyat = reader.GetDecimal(6);
+                    u.Stok = reader.GetInt16(7);
+                    u.GuvenlikStok = reader.GetInt16(8);
+                    u.SatistaMi = reader.GetBoolean(9);
+                    urunler.Add(u);
+                }
+                return urunler;
+            }
+            catch
+            {
+                return null;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
+
+
+        public bool UrunEkle(Urun urn)
+        {
+            try
+            {
+                cmd.CommandText = "insert into Products(ProductName,SupplierID,CategoryID,UnitPrice,UnitsInStock,ReorderLevel,Discontinued) values(@productName,@supplierID,@categoryID,@unitPrice,@unitsInStock,@reorderLevel,@discontinued)";
+                cmd.Parameters.Clear();
+                cmd.Parameters.AddWithValue("@productName", urn.UrunAdi);
+                cmd.Parameters.AddWithValue("@supplierID", urn.TedarikciID);
+                cmd.Parameters.AddWithValue("@categoryID", urn.KategoriID);
+                cmd.Parameters.AddWithValue("@unitPrice", urn.Fiyat);
+                cmd.Parameters.AddWithValue("@unitsInStock", urn.Stok);
+                cmd.Parameters.AddWithValue("@reorderLevel", urn.GuvenlikStok);
+                cmd.Parameters.AddWithValue("@discontinued", urn.SatistaMi);
+                con.Open();
+                cmd.ExecuteNonQuery();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
         #endregion
     }
 }

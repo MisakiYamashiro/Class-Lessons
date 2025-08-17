@@ -45,6 +45,7 @@
     <Compile Include="IslemSinifi.cs" />
     <Compile Include="Kategori.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Urun.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
