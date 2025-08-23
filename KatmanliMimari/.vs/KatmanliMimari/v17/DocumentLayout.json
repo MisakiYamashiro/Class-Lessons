@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\islemsinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\efepa\\onedrive\\documenti\\github\\class-lessons\\katmanlimimari\\dataaccesslayer\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\dataaccesslayer\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{7220A5B4-E211-48F1-9B7D-B5F98CAAF2A8}|KatmanliMimari\\KatmanliMimari.csproj|solutionrelative:katmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\efepa\\onedrive\\documenti\\github\\class-lessons\\katmanlimimari\\dataaccesslayer\\fc_bayern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\dataaccesslayer\\fc_bayern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD55F7D4-9209-455A-8D20-1A43A8A68417}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\fc_bayern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "DataAccessLayer\\BaglantiYollari.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T08:21:27.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T08:21:27.381Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "DataAccessLayer\\FC_Bayern.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T08:20:43.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T08:20:43.605Z"
             },
             {
               "$type": "Document",
@@ -118,7 +116,7 @@
               "RelativeDocumentMoniker": "DataAccessLayer\\IslemSinifi.cs",
               "ToolTip": "C:\\Users\\efepa\\OneDrive\\Documenti\\GitHub\\Class-Lessons\\KatmanliMimari\\DataAccessLayer\\IslemSinifi.cs",
               "RelativeToolTip": "DataAccessLayer\\IslemSinifi.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAIUCAAAAAAAAAAAqwJsCAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T10:32:13.48Z",
               "EditorCaption": ""
@@ -133,8 +131,7 @@
               "RelativeToolTip": "KatmanliMimari\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T10:21:51.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T10:21:51.917Z"
             }
           ]
         }
