@@ -11,6 +11,6 @@ namespace DataAccessLayer
         //static proje build edildiğinde ram üzerinde otomatik varedilir
         //kullanılmnası için nesne oluşutmrak gerekmez.
         public static string LocalYol = @"Data Source=EFE-S-TEMP-LAPT\SQLEXPRESS; Initial Catalog=NORTHWND; Integrated Security=True";
-        public static string CanliYol = @"Data Source=AYNEN\SQLEXPRESS; Initial Catalog=NORTHWND; Integrated Security=True";
+        public static string LocalBayernYol = @"Data Source=EFE-S-TEMP-LAPT\SQLEXPRESS; Initial Catalog=FC_Bayern_Database; Integrated Security=True";
     }
 }

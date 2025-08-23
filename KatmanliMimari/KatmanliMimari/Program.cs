@@ -36,17 +36,17 @@ namespace KatmanliMimari
 
             #endregion
             #region Ürün Listele
-            List<Urun> urunler = islem.UrunListele();
-            foreach (Urun item in urunler)
-            {
+            //List<Urun> urunler = islem.UrunListele();
+            //foreach (Urun item in urunler)
+            //{
 
-                Console.WriteLine($"ID == {item.UrunID}");
-                Console.WriteLine($"İsim = {item.UrunAdi}");
-                Console.WriteLine($"Fiyat = {item.Fiyat}");
-                Console.WriteLine($"Kategori = {item.Kategori}");
-                Console.WriteLine($"Tedarikçi = {item.Tedarikci}");
-                Console.WriteLine("\n");
-            }
+            //    Console.WriteLine($"ID == {item.UrunID}");
+            //    Console.WriteLine($"İsim = {item.UrunAdi}");
+            //    Console.WriteLine($"Fiyat = {item.Fiyat}");
+            //    Console.WriteLine($"Kategori = {item.Kategori}");
+            //    Console.WriteLine($"Tedarikçi = {item.Tedarikci}");
+            //    Console.WriteLine("\n");
+            //}
             #endregion
             #region SatistaMi == True
             //List<Urun> urunler = islem.UrunListele();
@@ -89,6 +89,65 @@ namespace KatmanliMimari
             //{
             //    Console.WriteLine("BAŞARDIM");
             //}
+            #endregion
+            #region Ürün Sil
+            //if (islem.UrunSil(78))
+            //{
+            //    Console.WriteLine("Silme işlemi başarılı");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("yok");
+            //}
+            #endregion
+            #region Ürün Düzenle
+            //Urun urunsel = new Urun();
+            //urunsel.UrunAdi = "Axolotl Meat";
+            //urunsel.TedarikciID = 4;
+            //urunsel.KategoriID = 8;
+            //urunsel.Fiyat = 20000;
+            //urunsel.Stok = 25;
+            //urunsel.GuvenlikStok = 5;
+            //urunsel.SatistaMi = false;
+            //if (islem.UrunDuzenle(urunsel, 1078))
+            //{
+            //    Console.WriteLine("yes");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("no");
+            //}
+            #endregion
+            #region Sipariş Listele
+            List<Siparisler> siparisler = islem.SiparisleriListele();
+            foreach (Siparisler item in siparisler)
+            {
+                Console.WriteLine("OrderID: " + item.OrderID);
+                Console.WriteLine("ProductID: " + item.ProductID);
+                Console.WriteLine("ProductName: " + item.ProductName);
+                Console.WriteLine("UnitPrice: " + item.UnitPrice);
+                Console.WriteLine("OrderDate: " + item.OrderDate);
+                Console.WriteLine("RequiredDate: " + item.RequiredDate);
+                Console.WriteLine("ShippedDate: " + item.ShippedDate);
+                Console.WriteLine("ShipVia: " + item.ShipVia_SupplierID);
+                Console.WriteLine("CompanyName: " + item.CompanyName);
+                Console.WriteLine("Freight: " + item.Freight);
+                Console.WriteLine("ShipName: " + item.ShipName);
+                Console.WriteLine("ShipAddress: " + item.ShipAddress);
+                Console.WriteLine("ShipCity: " + item.ShipCity);
+                Console.WriteLine("ShipRegion: " + item.ShipRegion);
+                Console.WriteLine("ShipPostalCode: " + item.ShipPostalCode);
+                Console.WriteLine("ShipCountry: " + item.ShipCountry);
+                Console.WriteLine("CustomerID: " + item.CustomerID);
+                Console.WriteLine("ContactName: " + item.ContactName);
+                Console.WriteLine("ContactTitle: " + item.ContactTitle);
+                Console.WriteLine("Phone: " + item.Phone);
+                Console.WriteLine("EmployeeID: " + item.EmployeeID);
+                Console.WriteLine("Employee: " + item.TitleOfCourtesy + " " + item.FirstName + " " + item.LastName);
+                Console.WriteLine("Title: " + item.Title);
+                Console.WriteLine("HomePhone: " + item.HomePhone);
+                Console.WriteLine("\n\n");
+            }
             #endregion
 
         }

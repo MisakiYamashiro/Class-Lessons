@@ -42,9 +42,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaglantiYollari.cs" />
+    <Compile Include="FC_Bayern.cs" />
     <Compile Include="IslemSinifi.cs" />
     <Compile Include="Kategori.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Siparisler.cs" />
+    <Compile Include="Tedarikci.cs" />
     <Compile Include="Urun.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
