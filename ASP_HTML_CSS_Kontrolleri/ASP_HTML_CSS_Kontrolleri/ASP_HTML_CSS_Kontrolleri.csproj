@@ -67,14 +67,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS_Konulari\Assets\StyleSheets\style1.css" />
+    <Content Include="CSS_Konulari\Border.html" />
+    <Content Include="CSS_Konulari\CSS_UzantiliDosyaOlusturma.html" />
+    <Content Include="CSS_Konulari\MetinBicimlendirme.html" />
+    <Content Include="CSS_Konulari\SeciciTurleri.html" />
     <Content Include="HTML_Konulari\BaslikGorunumleri.html" />
     <Content Include="HTML_Konulari\LinkOlusturma.html" />
     <Content Include="HTML_Konulari\ListeGorunumleri.html" />
     <Content Include="HTML_Konulari\MetinBiçimlendirme.html" />
     <Content Include="HTML_Konulari\ResimEkleme.html" />
-    <Content Include="HTML_Konulari\Resimler\image.png" />
-    <Content Include="HTML_Konulari\Resimler\umidi.png" />
+    <Content Include="CSS_Konulari\Assets\Resimler\image.png" />
+    <Content Include="CSS_Konulari\Assets\Resimler\umidi.png" />
     <Content Include="HTML_Konulari\TabloOluşturma.html" />
+    <Content Include="CSS_Konulari\TemelEtiketlerVeCssKullanimi.html" />
     <Content Include="HTML_Konulari\TemelHtmlKurallari.html" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -89,6 +95,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="HTML_Konulari\Resimler\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

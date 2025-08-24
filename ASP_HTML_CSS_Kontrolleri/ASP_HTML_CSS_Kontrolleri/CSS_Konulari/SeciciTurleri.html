@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CSS Seçici türleri.</title>
+    <style>
+        h2 {
+            color: darkred;
+            font-family: Calibri;
+        }
+
+        .onemli {
+            color: blue;
+            font-weight: 900;
+            font-family: Bahnschrift;
+            font-palette: light;
+        }
+
+        #lbl_kullanici {
+            font-size: 20pt;
+            color: green;
+            font-weight: 700;
+            font-family: Bahnschrift;
+        }
+
+        #tb_kullanici {
+            font-size: 20pt;
+            color: darkseagreen;
+            font-weight: 700;
+            font-family: Bahnschrift;
+        }
+
+        p {
+            font-size: 12;
+            font-family: Bahnschrift;
+            font-weight: 600;
+        }
+
+        h1 {
+            font-family: Bahnschrift;
+            color: darkblue;
+            font-weight: 700
+        }
+
+        #inlinecsslbl {
+            color: darkorange;
+            font-family: Bahnschrift;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <h1>Seçici Türleri</h1>
+    <h2>Satır bazında CSS(inline)</h2>
+    <label style="font-size:27pt" id="inlinecsslbl">Inline CSS</label>
+    <h2 style="color:deeppink">Etiket seçiciler</h2>
+    <p>Temel de bütün sayfa veya bir grup içerisindeki aynı etikete sahip tüm içeriklerin etkilenmesi için kullanılır.
+    head bloğuna style etiketi tanımlanır ve seçiciler bu etiket içerisine yazılır.
+    CSS özellikleri {} küme parantezi içerisine yazılarak birden çok CSS özelliğinin tanımlanması sağlanır.</p>
+    <h2>Sınıf Seçiciler.</h2>
+    <p class="onemli">Önce sınıf tanımlanır.
+    Body içerisinde aynı özellikte olması istenen tüm etiketlere class attribute'u ile sınıf ataması yapılır</p>
+    <label class="onemli">Üstteki paragraf ile aynı sınıfa sahibim.</label>
+    <h2>ID Seçiciler.</h2>
+    <p>ID, HTML sayfasında unique olarak atanmış veridir/etikettir. CSS ile bu unique elemanın özelliklerini
+    değiştirebilirz.</p>
+    <label id="lbl_kullanici">Kullanıcı Adı:</label>
+    <br />
+    <input type="text" id="tb_kullanici" />
+
+
+
+
+
+</body>
+</html>
